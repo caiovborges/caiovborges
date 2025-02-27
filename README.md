@@ -1,107 +1,75 @@
-<h1 align="left">👋 Olá, eu sou Caio Borges !</h1>
+# Caio Borges 🚀
 
-###
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=Desenvolvedor+de+Sistemas;Construindo+Soluções+Digitais;Amante+de+Tecnologia" alt="Typing SVG" /></a>
+</p>
 
-<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia. Sempre em busca de conhecimento, gosto de programar, explorar novas ferramentas e aprender algo novo todos os dias.<br><br>Gosto de desafios que me fazem evoluir e aprimorar minhas habilidades. Aqui no GitHub, compartilho um pouco da minha jornada e meus aprendizados.<br><br>Sinta-se à vontade para explorar e trocar ideias! 🚀</p>
+## 👨‍💻 Sobre Mim
 
-###
+Sou um estudante de **Analise e Desenvolvimento de Sistemas** com uma paixão ardente por tecnologia. Atualmente, estou me preparando para a certificação **AWS Certified Cloud Practitioner**. Minha jornada é marcada pela curiosidade constante e pelo desejo de transformar ideias em código funcional. Busco sempre aprender e crescer, explorando novas tecnologias e desafios no mundo do desenvolvimento de software.
 
-<h3 align="left">Linguagens de Programação, Frameworks e Bibliotecas:</h3>
+```yaml
+name: Caio Borges
+role: Systems Developer
+location: Brasil
+learning: 
+  - React Native
+  - AWS Certified Cloud Practitioner
+currently_exploring:
+  - Web Development
+  - Mobile Development
+  - Cloud Computing
+```
 
-###
+## 🔧 Tecnologias & Ferramentas
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-</div>
+| Linguagens | Frameworks | Bancos de Dados | Ferramentas |
+|------------|------------|-----------------|-------------|
+| <img src="https://skillicons.dev/icons?i=javascript" width="50" alt="JavaScript"> | <img src="https://skillicons.dev/icons?i=react" width="50" alt="React"> | <img src="https://skillicons.dev/icons?i=postgresql" width="50" alt="PostgreSQL"> | <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"> |
+| <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"> | <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js"> | <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"> | <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"> |
+| <img src="https://skillicons.dev/icons?i=typescript" width="50" alt="TypeScript"> | | | <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code"> |
 
-###
-
-<h3 align="left">Banco de Dados:</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-</div>
-
-###
-
-<h3 align="left">Desenvolvimento Web, Ferramentas e Tecnologias:</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=autocad" height="40" alt="autocad logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
-</div>
-
-###
-
-<h2 align="left">Status:</h2>
-
-###
+## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovborges&layout=compact" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=caiovborges&show_icons=true2" height="200" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caiovborges&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiovborges&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovborges&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## 📚 Minha Biblioteca  
+## 📚 Biblioteca Pessoal
 
-### 📖 Estou lendo:  
-| 📘 | 📘 |  
-|-----------|-----------|  
-| <img src="https://m.media-amazon.com/images/I/71buK9hmRDL._UF894,1000_QL80_.jpg" width="120"> <br> **React Native: <br> Desenvolvimento de aplicativos <br> mobile com React** | <img src="https://m.media-amazon.com/images/I/71JpZHEGvWL._UF894,1000_QL80_.jpg" width="120"> <br> **Código Limpo: <br> Habilidades Práticas <br> do Agile Software** |  
+### 📖 Leitura Atual
+| React Native | Clean Code |
+|--------------|------------|
+| <img src="https://m.media-amazon.com/images/I/71buK9hmRDL._UF894,1000_QL80_.jpg" width="150" alt="React Native"> | <img src="https://m.media-amazon.com/images/I/71JpZHEGvWL._UF894,1000_QL80_.jpg" width="150" alt="Clean Code"> |
 
-### ✅ Já li:  
-| 📗 | 📗 | 📗 |  
-|-----------|-----------|-----------|  
-| <img src="https://m.media-amazon.com/images/I/71X7hMhMEUL._AC_UF1000,1000_QL80_.jpg" width="120"> <br> **Lógica de Programação <br> e Algoritmos com JavaScript** | <img src="https://m.media-amazon.com/images/I/6114CAtRpAL.jpg" width="120"> <br> **Como Escrever <br> Boas Notas** | <img src="https://m.media-amazon.com/images/I/71Vkg7GfPFL._AC_UF1000,1000_QL80_.jpg" width="120"> <br> **Entendendo <br> Algoritmos** |  
+### ✅ Livros Concluídos
+| Lógica JavaScript | Escrevendo Notas | Algoritmos |
+|-------------------|------------------|------------|
+| <img src="https://m.media-amazon.com/images/I/71X7hMhMEUL._AC_UF1000,1000_QL80_.jpg" width="150" alt="Lógica JavaScript"> | <img src="https://m.media-amazon.com/images/I/6114CAtRpAL.jpg" width="150" alt="Escrevendo Notas"> | <img src="https://m.media-amazon.com/images/I/71Vkg7GfPFL._AC_UF1000,1000_QL80_.jpg" width="150" alt="Algoritmos"> |
 
+## 🌐 Conecte-se Comigo
 
- 
-
-
-###
-
-<h3 align="left">Contato:</h3>
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/caio-v-borges/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn">
   </a>
   <a href="mailto:caiovborges2013@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Email">
   </a>
   <a href="https://discord.com/users/370016131785818125" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://skillicons.dev/icons?i=discord" width="50" alt="Discord">
   </a>
 </div>
 
-###
+## 💭 Filosofia
+
+> "Cada linha de código é uma oportunidade de aprender e crescer."
+
+---
+
+<div align="center">
+  🚀 Transformando desafios em código, um commit de cada vez.
+  
+  <img src="https://komarev.com/ghpvc/?username=caiovborges&color=blueviolet" alt="Profile Views">
+</div>
